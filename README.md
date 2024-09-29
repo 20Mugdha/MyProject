@@ -4,3 +4,4 @@ Day 2: Tip Calculator – A simple calculator to help users figure out tips for 
 Day 3: Treasure Island – An interactive adventure story where choices lead to different outcomes.🏝️
 Day 4: Rock Paper Scissors - The project analyzes decision-making and strategy through a classic game, offering insights into human behavior and competition.✊🖐️✌️
 Day 5: Password Generator - The function creates secure, random passwords tailored to specified criteria, enhancing account security and usability.🔐
+Day 6: Escaping The Maze - A captivating journey where players navigate intricate pathways and unravel puzzles.🧩
