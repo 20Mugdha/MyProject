@@ -6,3 +6,5 @@ Day 4: Rock Paper Scissors - The project analyzes decision-making and strategy t
 Day 5: Password Generator - The function creates secure, random passwords tailored to specified criteria, enhancing account security and usability.🔐
 Day 6: Escaping The Maze - A captivating journey where players navigate intricate pathways and unravel puzzles.🧩
 Day 7: Hangman - The Hangman game lets players guess a random word with feedback, progress tracking, and fun graphics! 🎮🐍✨
+Day 8: Caesar's cipher - Shifts letters by a fixed number to encrypt messages.🔐
+Day 9: Secret Auction - A secret auction conceals bids until the end, allowing participants to submit confidential offers.💰
